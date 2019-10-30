@@ -1,0 +1,9 @@
+Package: com.johnnywaity.timeunlockxiprefs
+Name: TimeUnlockXIPrefs
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unlock Your Device with the Current Time! For iOS 11.0 - 11.3.1
+Maintainer: Johnny Waity
+Author: Johnny Waity
+Section: Tweaks
